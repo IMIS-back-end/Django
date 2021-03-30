@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcf209b5-4454-4a5e-be0e-a3fc5c689871" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookmanager@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookmanager@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookmanager@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookmanager: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookmanager@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookmanager: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="app01_book: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookmanager@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookmanager: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="app01_publisher: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pbV0VnMpaXFbYzLe3gPgGnwlAH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;sqlite.xerial&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/plugins" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zwh52\coursework\sem6\cpt202\instances\Django\static\plugins" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Django" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Django.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcf209b5-4454-4a5e-be0e-a3fc5c689871" name="Default Changelist" comment="" />
+      <created>1615451554017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615451554017</updated>
+      <workItem from="1615451557872" duration="3961000" />
+      <workItem from="1615704553823" duration="8618000" />
+      <workItem from="1615724854075" duration="141000" />
+      <workItem from="1615725010550" duration="116000" />
+      <workItem from="1615728311794" duration="621000" />
+      <workItem from="1615794960116" duration="5040000" />
+      <workItem from="1615807632766" duration="6221000" />
+      <workItem from="1615886208865" duration="336000" />
+      <workItem from="1615887209215" duration="459000" />
+      <workItem from="1615906894503" duration="1943000" />
+      <workItem from="1615908867312" duration="1537000" />
+      <workItem from="1615946024325" duration="143000" />
+      <workItem from="1615961906108" duration="10080000" />
+      <workItem from="1615980806194" duration="968000" />
+      <workItem from="1615981797808" duration="4698000" />
+      <workItem from="1616062438772" duration="2804000" />
+      <workItem from="1616147311306" duration="2977000" />
+      <workItem from="1616244195868" duration="3235000" />
+      <workItem from="1616312294016" duration="2575000" />
+      <workItem from="1616318655529" duration="5654000" />
+      <workItem from="1616328296509" duration="5823000" />
+      <workItem from="1616379498695" duration="3752000" />
+      <workItem from="1616385201557" duration="1603000" />
+      <workItem from="1616396684966" duration="2330000" />
+      <workItem from="1616417915441" duration="4735000" />
+      <workItem from="1616465394492" duration="1463000" />
+      <workItem from="1616483743638" duration="852000" />
+      <workItem from="1616509959613" duration="617000" />
+      <workItem from="1616550272327" duration="668000" />
+      <workItem from="1616566582668" duration="37000" />
+      <workItem from="1616939782907" duration="470000" />
+      <workItem from="1616982437678" duration="1276000" />
+      <workItem from="1617020187223" duration="840000" />
+      <workItem from="1617027537633" duration="57000" />
+      <workItem from="1617116833295" duration="265000" />
+      <workItem from="1617117120115" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="124" key="#HTTP_Proxy" timestamp="1615908849297">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="124" key="#HTTP_Proxy/0.0.1536.864@0.0.1536.864" timestamp="1615908849297" />
+    <state x="441" y="88" width="871" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615967690892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="441" y="88" width="871" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1615967690892" />
+    <state x="511" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615810380583">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="511" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1615810380583" />
+    <state x="657" y="188" key="FileChooserDialogImpl" timestamp="1615810511745">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="657" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615810511745" />
+    <state width="1024" height="223" key="GridCell.Tab.0.bottom" timestamp="1616550318428">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1616550318428" />
+    <state width="1024" height="223" key="GridCell.Tab.0.center" timestamp="1616550318428">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1616550318428" />
+    <state width="1024" height="223" key="GridCell.Tab.0.left" timestamp="1616550318426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1616550318426" />
+    <state width="1024" height="223" key="GridCell.Tab.0.right" timestamp="1616550318428">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1616550318428" />
+    <state x="270" y="75" key="SettingsEditor" timestamp="1616062632035">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1616062632035" />
+    <state x="448" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1617117123692">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="448" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1617117123692" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1616312448512">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1616312448512" />
+  </component>
+</project>

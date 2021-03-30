@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>book_add</title>
+</head>
+<body>
+
+<form action="" method="post">
+    <p>
+        Book_Name:
+        <input type="text" name="book_name"> <span>{{ error }}</span>
+    </p>
+
+    <p>
+        Publisher:
+        <select name="pub_id" id="">
+            {% for publisher in all_publishers %}
+                <option value="{{ publisher.pk }}">{{ publisher.name }}</option>
+            {% endfor %}
+        </select>
+    </p>
+    <button>Submit</button>
+</form>
+
+</body>
+</html>

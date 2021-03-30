@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bookList</title>
+</head>
+<body>
+
+<a href="/book_add/"> Add book</a>
+<table border="1">
+    <thead>
+    <tr>
+        <th>Number</th>
+        <th>ID</th>
+        <th>NAME</th>
+        <th>Publisher</th>
+    </tr>
+    </thead>
+    <tbody> w
+        {% for book in all_books %}
+            <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ book.pk }}</td>
+                <td>{{ book.name }}</td>
+                <td>{{ book.publisher.name }}</td>
+                <td>
+                    <a href="/book_del/?id={{ book.pk }}">Delete</a>
+                    <a href="/book_edit/?id={{ book.pk }}">Edit</a>
+                </td>
+            </tr>
+        {% endfor %}
+
+
+    </tbody>
+
+</table>
+
+
+
+</body>
+</html>
